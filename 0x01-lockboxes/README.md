@@ -14,7 +14,7 @@
     Return True if all boxes can be opened, else return False
 
 ### Example:
-    carrie@ubuntu:~/0x01-lockboxes$ cat main_0.py
+   admin@Killer :~/0x01-lockboxes$ cat main_0.py
     #!/usr/bin/python3
 
     canUnlockAll = __import__('0-lockboxes').canUnlockAll
@@ -29,8 +29,8 @@
     print(canUnlockAll(boxes))
 
 
-    carrie@ubuntu:~/0x01-lockboxes$ ./main_0.py
+    admin@Killer :~/0x01-lockboxes$ ./main_0.py
     True
     True
     False
-    carrie@ubuntu:~/0x01-lockboxes$
+    admin@Killer :~/0x01-lockboxes$
